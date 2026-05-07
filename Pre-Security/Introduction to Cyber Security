@@ -2,4 +2,8 @@
 Offensive Security is about thinking like an attacker to find weaknesses before real hackers do.
 Offensive Security is the term which describes simulating a hacker's actions to find system vulnerabilities.
 ---> Defensive Security Intro
-
+Defensive Security is also known as blue teaming.
+Defensive Security teams play a key role in protecting networks & organisations across the globe.
+A ransomware attack is a type of malicious software (malware) that encrypts a victim’s data, systems or files,
+rendering them inaccessible until a ransom, typically in cryptocurrency, is paid.
+These attacks frequently target education, government, and healthcare sectors to steal sensitive information & cause operational downtime.
