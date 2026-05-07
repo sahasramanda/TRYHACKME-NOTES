@@ -7,3 +7,15 @@ Defensive Security teams play a key role in protecting networks & organisations 
 A ransomware attack is a type of malicious software (malware) that encrypts a victim’s data, systems or files,
 rendering them inaccessible until a ransom, typically in cryptocurrency, is paid.
 These attacks frequently target education, government, and healthcare sectors to steal sensitive information & cause operational downtime.
+---> Responsibilities of Defensive Security
+1. Monitoring & Detecting:
+Continually observing network & system activity to detect suspicious behaviour & events.
+These may include, for example,
+Monitoring for logins from another country while the employee is based in the company's London office.
+2. Incident Response:
+The team quickly comes together if suspicious activity is confirmed & alerts are raised.
+This is when the Incident Response process begins.
+The process involves containing & removing the threat & restoring the business back to normality.
+3. Threat Intelligence:
+Gathering & using information about attackers like their latest methods, targets & trends can greatly strengthen an organisation’s defences.
+For example, understanding that an attacker focuses on a specific software application used within organisations.
