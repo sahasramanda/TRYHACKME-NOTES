@@ -4,7 +4,7 @@ Offensive Security is the term which describes simulating a hacker's actions to 
 ---> Defensive Security Intro
 Defensive Security is also known as blue teaming.
 Defensive Security teams play a key role in protecting networks & organisations across the globe.
-A ransomware attack is a type of malicious software (malware) that encrypts a victim’s data, systems or files,
+***A ransomware attack is a type of malicious software (malware) that encrypts a victim’s data, systems or files,
 rendering them inaccessible until a ransom, typically in cryptocurrency, is paid.
 These attacks frequently target education, government, and healthcare sectors to steal sensitive information & cause operational downtime.
 ---> Responsibilities of Defensive Security
@@ -31,6 +31,17 @@ They work to separate normal activity from suspicious behaviour, digging into th
 6. Digital Forensics:
 Will utilise their expertise to understand what occurred during an incident.
 They will gather, preserve & analyse evidence from the network & systems to uncover vital information about the attackers & their methods.
-7. Security Engineer
+7. Security Engineer:
 Develops & maintains the essential tools & systems that support the defensive security team.
 These systems enable the team to monitor, investigate & explore events within an organisation.
+---> Defensive Security in Practice
+Organisations don’t rely on a single tool or method to stay secure,
+they build layers of defence, much like an onion or many layers to a castle.
+We call this "Defence in Depth," meaning that if one security measure fails,
+we have others to rely upon at various stages.
+Examples of these defensive measures include:
+1. Employee Training:
+In today's world, the human factor of cyber security cannot be ignored.
+With attacks more often than not targeting employees rather than systems,
+training employees to be proactive in recognising attempts for things like phishing is essential.
+***Phishing: When emails are sent to a target(s) purporting to be from a trusted entity to lure individuals into providing sensitive information.
