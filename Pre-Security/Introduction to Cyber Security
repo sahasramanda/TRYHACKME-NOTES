@@ -19,3 +19,9 @@ The process involves containing & removing the threat & restoring the business b
 3. Threat Intelligence:
 Gathering & using information about attackers like their latest methods, targets & trends can greatly strengthen an organisation’s defences.
 For example, understanding that an attacker focuses on a specific software application used within organisations.
+4. Vulnerability Management:
+Fixing software or system flaws is an important preventative measure that can lower the risk of an attack.
+Security teams can check which systems attackers are most likely to target. This can be done manually or with the help of automated tools.
+5. Investigation and Analysis:
+Members of a defensive security team are always monitoring & analysing what’s happening inside an organisation.
+They work to separate normal activity from suspicious behaviour, digging into the details like solving a puzzle to uncover valuable insights.
