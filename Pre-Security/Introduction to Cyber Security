@@ -62,7 +62,7 @@ Key technologies commonly used by defensive security teams worldwide:
 --->Security Operations Centre (SOC):
 the defensive security centre for an organisation's technology.
 This busy centre is the frontline of protecting an organisation, often operating around the clock, 365 days a year &
-employs a variety of security professionals who monitor and protect the organisation's networks, systems & data.
+employs a variety of security professionals who monitor & protect the organisation's networks, systems & data.
 ***A typical day in the SOC could look like:
 Reviewing alerts triggered by security tooling
 Investigating anomalies
