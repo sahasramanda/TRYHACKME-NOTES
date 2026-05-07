@@ -9,19 +9,28 @@ rendering them inaccessible until a ransom, typically in cryptocurrency, is paid
 These attacks frequently target education, government, and healthcare sectors to steal sensitive information & cause operational downtime.
 ---> Responsibilities of Defensive Security
 1. Monitoring & Detecting:
-Continually observing network & system activity to detect suspicious behaviour & events.
+Continually observing organisation's network & system activity to identify suspicious behaviour & events.
+The frontline of protecting the organisation.
 These may include, for example,
 Monitoring for logins from another country while the employee is based in the company's London office.
 2. Incident Response:
 The team quickly comes together if suspicious activity is confirmed & alerts are raised.
 This is when the Incident Response process begins.
 The process involves containing & removing the threat & restoring the business back to normality.
+An Incident Responder is responsible for investigating & responding to ongoing security incidents withing the organisation.
+They'll monitor & prevent attackers in real time & share lessons learned during the attack to prevent future incidents.
 3. Threat Intelligence:
 Gathering & using information about attackers like their latest methods, targets & trends can greatly strengthen an organisation’s defences.
 For example, understanding that an attacker focuses on a specific software application used within organisations.
 4. Vulnerability Management:
 Fixing software or system flaws is an important preventative measure that can lower the risk of an attack.
 Security teams can check which systems attackers are most likely to target. This can be done manually or with the help of automated tools.
-5. Investigation and Analysis:
+5. Investigation & Analysis:
 Members of a defensive security team are always monitoring & analysing what’s happening inside an organisation.
 They work to separate normal activity from suspicious behaviour, digging into the details like solving a puzzle to uncover valuable insights.
+6. Digital Forensics:
+Will utilise their expertise to understand what occurred during an incident.
+They will gather, preserve & analyse evidence from the network & systems to uncover vital information about the attackers & their methods.
+7. Security Engineer
+Develops & maintains the essential tools & systems that support the defensive security team.
+These systems enable the team to monitor, investigate & explore events within an organisation.
