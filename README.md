@@ -50,3 +50,6 @@ Become a **SOC (Security Operations Center) Analyst** — detecting threats, ana
 ---
 
 ## 📂 Repository Structure
+---
+
+## 📊 Progress Tracker
