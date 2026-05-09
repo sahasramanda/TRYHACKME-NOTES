@@ -4,22 +4,18 @@
 
 <br/><br/>
 
-[
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-sahasramanda-ff69b4?style=for-the-badge&logo=tryhackme&logoColor=white)
-
-](https://tryhackme.com/p/sahasramanda)
+[TryHackMe 🍓](https://tryhackme.com/p/sahasramanda)
 
 <br/><br/>
 
 
 
-![Status](https://img.shields.io/badge/🍓%20Status-Actively%20Learning-ff69b4?style=for-the-badge&logoColor=white)
+![Status](https://img.shields.io/badge/%20Status-Actively%20Learning-ff69b4?style=for-the-badge&logoColor=white)
 
 
 
 
-![Goal](https://img.shields.io/badge/💮%20Goal-SOC%20Analyst-ff1493?style=for-the-badge&logoColor=white)
+![Goal](https://img.shields.io/badge/%20Goal-SOC%20Analyst-ff1493?style=for-the-badge&logoColor=white)
 
 
 
@@ -36,10 +32,10 @@ Become a **SOC (Security Operations Center) Analyst** — detecting threats, ana
 
 ---
 
-## 🌸 Learning Roadmap
+## 🌷 Learning Roadmap
 
-| 💮 Stage | Path | Status |
-|----------|------|--------|
+| Stage | Path | Status |
+|-------|------|--------|
 | 🟢 | Pre-Security | `In Progress` |
 | 🍓 | Cyber Security 101 | `Upcoming` |
 | 🌸 | SOC Level 1 | `Upcoming` |
