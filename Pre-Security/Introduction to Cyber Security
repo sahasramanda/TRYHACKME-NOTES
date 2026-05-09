@@ -78,3 +78,17 @@ This information needs to be brought together in one central and easy-to-access 
 This way, several people can review and analyse it quickly.
 ---> Careers in Cyber
 Cybersecurity has many career paths, from breaking into systems (offensive security) to defending organisations from attacks (defensive security).
+1. Security Analysis:
+Security analysts are often referred to as the digital defenders of an organisation and sit on the blue team.
+These people monitor, investigate & respond to activity taking place on an organisation's devices & network and play a significant role in an organisation's defence.
+Using their skills, security analysts investigate & piece together potential security incidents known as alerts to decide if further action is needed & respond appropriately.
+An example of a potential security incident is an employee who works in the London office who suddenly logs in from another country.
+An investigation is required to determine if this is legitimate.
+***A Typical Day as a Security Analyst Involves:
+Monitoring activity taking place on the devices & network of the organisation.
+Investigating unusual or suspicious activity, such as strange logins.
+Piecing together information to understand what has happened, when & how.
+Working with other teams to improve the organisation's defences.
+Security Analyst is a broad entry point into defensive security, with many paths to specialise later.
+You can move into areas like threat hunting, incident response or malware analysis.
+Incident responders handle active attacks, while malware analysts examine the tools & code used by attackers.
