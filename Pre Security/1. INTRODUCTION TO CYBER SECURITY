@@ -87,31 +87,28 @@ piecing together information to understand what has happened when & how, working
 security analyst is a broad entry point into defensive security with many paths to specialise later.
 you can move into areas like threat hunting, incident response or malware analysis.
 incident responders handle active attacks, while malware analysts examine the tools & code used by attackers.
-2. Security Engineering:
-At a high level, Security Engineers build & maintain the systems & processes that protect an organisation's network & devices
+2. security engineering:
+at a high level, security engineers build & maintain the systems and processes that protect an organisation's network & devices
 and are known as the architects of cyber security.
-For example, a Security Engineer will be responsible for maintaining an Intrusion Detection System (IDS),
+for example, a security engineer will be responsible for maintaining an intrusion detection system,
 which can be considered a security camera within an organisation's digital environment.
-Systems like these use a mixture of rules & intelligence to detect & prevent attacks from occurring.
-***A Typical Day as a Security Engineer Involves:
-Designing & maintaining security systems.
-Keeping up to date with the latest & greatest hacker techniques being used.
-Documenting processes & procedures.
-Assessing risk & making sure systems & applications are protected against vulnerabilities.
-Security engineering is already a specialised defensive role, but you can go even deeper into areas like application security or cloud security.
-The skills you build here also transfer well into other fields, including offensive security.
-3. Penetration Testing:
-penetration testing is often referred to as “pentesting” or “ethical hacking.”
-A penetration tester’s job is to check how secure a company’s systems & software are by safely trying to break into them.
-They search for weaknesses & vulnerabilities and then test if those can be exploited, just like a real hacker would, but in a safe and controlled way.
- Everything is done under an agreement between the company & the pentester.
-This process is known as an engagement.
-The results of these tests help the company understand risks & address problems before real cybercriminals can exploit them.
-***A Typical Day as a Penetration Tester Involves:
-Testing the security of computer systems, networks & websites.
-Performing security assessments, audits & analysing security policies.
-Analysing the results & creating reports, advising an organisation on how to prevent the attack from occurring.
-Penetration testing is a strong starting point for an offensive security career.
-You can specialise in areas like network or web application testing & later progress into red teaming,
-where you simulate full-scale, long-term attacks across an entire organisation, sometimes even involving physical intrusion.
-Red teaming is a senior, advanced progression from pentesting.
+systems like these use a mixture of rules & intelligence to detect and prevent attacks from occurring.
+---> a typical day as a security engineer involves:
+designing & maintaining security systems, keeping up to date with the latest & greatest hacker techniques being used, documenting processes & procedures,
+assessing risk & making sure systems and applications are protected against vulnerabilities.
+security engineering is already a specialised defensive role but you can go even deeper into areas like application security or cloud security.
+the skills you build here also transfer well into other fields including offensive security.
+3. penetration testing:
+penetration testing is often referred to as “pentesting” or “ethical hacking”.
+a penetration tester’s job is to check how secure a company’s systems & software are by safely trying to break into them.
+they search for weaknesses and vulnerabilities & then test if those can be exploited, just like a real hacker would but in a safe & controlled way.
+everything is done under an agreement between the company & the pentester. this process is known as an engagement.
+the results of these tests help the company understand risks & address problems before real cybercriminals can exploit them.
+---> a typical day as a penetration tester involves:
+testing the security of computer systems, networks & websites,
+performing security assessments, audits & analysing security policies.
+analysing the results & creating reports, advising an organisation on how to prevent the attack from occurring.
+penetration testing is a strong starting point for an offensive security career.
+you can specialise in areas like network or web application testing & later progress into red teaming,
+where you simulate full-scale, long-term attacks across an entire organisation sometimes even involving physical intrusion.
+red teaming is a senior, advanced progression from pentesting.
