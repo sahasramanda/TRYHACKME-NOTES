@@ -7,7 +7,7 @@ Become a **SOC (Security Operations Center) Analyst**
 
 ---
 
-## 🌷 Learning Roadmap
+##  Learning Roadmap
 
 | Stage | Path | Status |
 |-------|------|--------|
