@@ -28,7 +28,7 @@
 
 ## 💮 Goal
 
-Become a **SOC (Security Operations Center) Analyst** — detecting threats, analyzing incidents, and defending systems in real time 🍓
+Become a **SOC (Security Operations Center) Analyst** — detecting threats, analyzing incidents, and defending systems in real time 💌
 
 ---
 
