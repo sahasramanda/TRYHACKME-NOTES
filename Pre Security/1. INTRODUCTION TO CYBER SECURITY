@@ -6,7 +6,7 @@ defensive security is also known as blue teaming.
 defensive security teams play a key role in protecting networks & organisations across the globe.
 ---> a ransomware attack is a type of malicious software (malware) that encrypts a victim’s data, systems or files,
 rendering them inaccessible until a ransom, typically in cryptocurrency, is paid.
-these attacks frequently target education, government & healthcare sectors to steal sensitive information and cause operational downtime.
+these attacks frequently target education, government and healthcare sectors to steal sensitive information & cause operational downtime.
 RESPONSIBILITIES OF DEFENSIVE SECURITY:
 1. monitoring & detecting:
 the frontline of protecting the organisation.
@@ -19,7 +19,7 @@ the process involves containing & removing the threat and restoring the business
 ---> an incident responder is responsible for investigating & responding to ongoing security incidents withing the organisation.
 they'll monitor & prevent attackers in real time and share lessons learned during the attack to prevent future incidents.
 3. threat intelligence:
-gathering & using information about attackers like their latest methods, targets and trends can greatly strengthen an organisation’s defences.
+gathering and using information about attackers like their latest methods, targets & trends can greatly strengthen an organisation’s defences.
 for example, understanding that an attacker focuses on a specific software application used within organisations.
 4. vulnerability management:
 fixing software or system flaws is an important preventative measure that can lower the risk of an attack.
@@ -32,11 +32,11 @@ they work to separate normal activity from suspicious behaviour, digging into th
 they'll utilise their expertise to understand what occurred during an incident by gathering, preserving & analysing evidence
 from the network & systems to uncover vital information about the attackers & their methods.
 7. security engineer:
-develops & maintains the essential tools and systems that support the defensive security team.
+develops and maintains the essential tools & systems that support the defensive security team.
 these systems enable the team to monitor, investigate & explore events within an organisation.
 DEFENSIVE SECURITY IN PRACTICE:
 organisations don’t rely on a single tool or method to stay secure, they build layers of defence, much like an onion or many layers to a castle.
-we call this "defence in depth" meaning that if one security measure fails, we have others to rely upon at various stages.
+we call this "DEFENCE IN DEPTH" meaning that if one security measure fails, we have others to rely upon at various stages.
 examples of these defensive measures include:
 1. employee training:
 in today's world, the human factor of cyber security cannot be ignored.
