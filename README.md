@@ -53,7 +53,7 @@ Become a **SOC (Security Operations Center) Analyst** — detecting threats, ana
 
 <div align="center">
 
-*"The quieter you become, the more you are able to hear."* 🍓 — Kali Linux motto
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff69b4,100:ffb6c1&height=100&section=footer"/>
 
