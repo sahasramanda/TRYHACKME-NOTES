@@ -30,3 +30,23 @@
 ---
 
 ## 👾 About Me
+---
+
+## 🎯 Goal
+
+Become a **SOC (Security Operations Center) Analyst** — detecting threats, analyzing incidents, and defending systems in real time.
+
+---
+
+## 🗺️ Learning Roadmap
+
+| Stage | Path | Status |
+|-------|------|--------|
+| 🟢 | Pre-Security | `In Progress` |
+| ⬜ | SOC Level 1 | `Upcoming` |
+| ⬜ | Cyber Defense | `Upcoming` |
+| ⬜ | Junior Penetration Tester | `Upcoming` |
+
+---
+
+## 📂 Repository Structure
