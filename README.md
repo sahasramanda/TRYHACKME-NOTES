@@ -1,7 +1,7 @@
-## 🍓 ABOUT ME 🍓
+## 🍓 ABOUT ME
 ---
 
-## 🌸 GOAL 🌸
+## 🌸 GOAL
 
 Become a **SOC (Security Operations Center) Analyst** 
 
@@ -20,5 +20,5 @@ Become a **SOC (Security Operations Center) Analyst**
 
 ## 💌 WHAT YOU WIll FIND HERE
 
-  -Room Notes** - Key concepts and takeaways from each room
-  -Writeups** - Step-by-step solutions and methodology
+  -**Room Notes** - Key concepts and takeaways from each room
+  -**Writeups** - Step-by-step solutions and methodology
