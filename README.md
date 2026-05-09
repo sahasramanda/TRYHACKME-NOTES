@@ -1,13 +1,13 @@
-## 🍓 About Me
+## 🍓 ABOUT ME
 ---
 
-## 🌸 Goal
+## 🌸 GOAL
 
 Become a **SOC (Security Operations Center) Analyst** 
 
 ---
 
-##  Learning Roadmap
+##  LEARNING ROADMAP
 
 | Stage | Path | Status |
 |-------|------|--------|
