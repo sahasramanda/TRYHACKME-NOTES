@@ -35,16 +35,14 @@ from the network & systems to uncover vital information about the attackers & th
 develops & maintains the essential tools and systems that support the defensive security team.
 these systems enable the team to monitor, investigate & explore events within an organisation.
 DEFENSIVE SECURITY IN PRACTICE:
-Organisations don’t rely on a single tool or method to stay secure,
-they build layers of defence, much like an onion or many layers to a castle.
-We call this "Defence in Depth," meaning that if one security measure fails,
-we have others to rely upon at various stages.
-Examples of these defensive measures include:
-1. Employee Training:
-In today's world, the human factor of cyber security cannot be ignored.
-With attacks more often than not targeting employees rather than systems,
+organisations don’t rely on a single tool or method to stay secure, they build layers of defence, much like an onion or many layers to a castle.
+we call this "defence in depth" meaning that if one security measure fails, we have others to rely upon at various stages.
+examples of these defensive measures include:
+1. employee training:
+in today's world, the human factor of cyber security cannot be ignored.
+with attacks more often than not targeting employees rather than systems,
 training employees to be proactive in recognising attempts for things like phishing is essential.
-***Phishing: When emails are sent to a target(s) purporting to be from a trusted entity to lure individuals into providing sensitive information.
+---> phishing: when emails are sent to a target(s) purporting to be from a trusted entity to lure individuals into providing sensitive information.
 2. Intrusion Detection Systems (IDS):
 These devices act as surveillance cameras across the organisation's IT.
 They monitor and alert when suspicious behaviour or activity is detected across the network or systems.
