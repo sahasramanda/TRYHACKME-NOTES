@@ -1,1 +1,122 @@
-
+OFFENSIVE SECURITY INTRO:
+offensive security is about thinking like an attacker to find weaknesses before real hackers do.
+offensive security is the term which describes simulating a hacker's actions to find system vulnerabilities.
+DEFENSIVE SECURITY INTRO:
+defensive security is also known as blue teaming.
+defensive security teams play a key role in protecting networks & organisations across the globe.
+---> a ransomware attack is a type of malicious software (malware) that encrypts a victim’s data, systems or files,
+rendering them inaccessible until a ransom, typically in cryptocurrency, is paid.
+these attacks frequently target education, government & healthcare sectors to steal sensitive information and cause operational downtime.
+RESPONSIBILITIES OF DEFENSIVE SECURITY:
+1. monitoring & detecting:
+the frontline of protecting the organisation.
+continually observing organisation's network & system activity to identify suspicious behaviour and events.
+these may include, for example, monitoring for logins from another country while the employee is based in the company's london office.
+2. incident response:
+the team quickly comes together if suspicious activity is confirmed & alerts are raised.
+this is when the incident response process begins.
+the process involves containing & removing the threat and restoring the business back to normality.
+---> an incident responder is responsible for investigating & responding to ongoing security incidents withing the organisation.
+they'll monitor & prevent attackers in real time and share lessons learned during the attack to prevent future incidents.
+3. threat intelligence:
+gathering & using information about attackers like their latest methods, targets and trends can greatly strengthen an organisation’s defences.
+for example, understanding that an attacker focuses on a specific software application used within organisations.
+4. vulnerability management:
+fixing software or system flaws is an important preventative measure that can lower the risk of an attack.
+security teams can check which systems attackers are most likely to target.
+this can be done manually or with the help of automated tools.
+5. investigation & analysis:
+members of a defensive security team are always monitoring & analysing what’s happening inside an organisation.
+they work to separate normal activity from suspicious behaviour, digging into the details like solving a puzzle to uncover valuable insights.
+6. digital forensics:
+they'll utilise their expertise to understand what occurred during an incident by gathering, preserving & analysing evidence
+from the network & systems to uncover vital information about the attackers & their methods.
+7. security engineer:
+develops & maintains the essential tools and systems that support the defensive security team.
+these systems enable the team to monitor, investigate & explore events within an organisation.
+DEFENSIVE SECURITY IN PRACTICE:
+Organisations don’t rely on a single tool or method to stay secure,
+they build layers of defence, much like an onion or many layers to a castle.
+We call this "Defence in Depth," meaning that if one security measure fails,
+we have others to rely upon at various stages.
+Examples of these defensive measures include:
+1. Employee Training:
+In today's world, the human factor of cyber security cannot be ignored.
+With attacks more often than not targeting employees rather than systems,
+training employees to be proactive in recognising attempts for things like phishing is essential.
+***Phishing: When emails are sent to a target(s) purporting to be from a trusted entity to lure individuals into providing sensitive information.
+2. Intrusion Detection Systems (IDS):
+These devices act as surveillance cameras across the organisation's IT.
+They monitor and alert when suspicious behaviour or activity is detected across the network or systems.
+3. Firewalls:
+These devices act as security guards on an organisation's network.
+They monitor & determine what traffic is allowed to enter the network, or should be rejected.
+4. Security Policies
+Security policies help organisations ensure that their systems are used correctly.
+They can reduce risk by blocking access to dangerous websites or requiring strong passwords, making it harder for attackers to guess login details.
+***This means that even if an employee clicks on a dangerous attachment in an email,
+other protections are in place to prevent the malicious attachment from harming the organisation.
+Defensive security teams rely on a wide range of tools & technologies.
+These tools allow professionals to analyse information & investigate threats more effectively.
+Key technologies commonly used by defensive security teams worldwide:
+--->Security Operations Centre (SOC):
+the defensive security centre for an organisation's technology.
+This busy centre is the frontline of protecting an organisation, often operating around the clock, 365 days a year &
+employs a variety of security professionals who monitor & protect the organisation's networks, systems & data.
+***A typical day in the SOC could look like:
+Reviewing alerts triggered by security tooling
+Investigating anomalies
+Responding to incidents
+These professionals are often the eyes and ears on the frontline for protecting an organisation.
+---> SIEMs: The Defensive Security Radar
+SIEMs (Security Information and Event Management) systems are the central place for all data &
+information collected from security devices, workstations, servers & more within an organisation.
+Much like radar sweeping the digital environment, these systems are an absolutely critical part of any organisation's defensive security,
+as they offer insight into what is happening within the organisation's IT.
+The systems inside an organisation produce a large amount of information.
+This information needs to be brought together in one central and easy-to-access place to understand what's happening quickly & clearly.
+This way, several people can review and analyse it quickly.
+---> Careers in Cyber
+Cybersecurity has many career paths, from breaking into systems (offensive security) to defending organisations from attacks (defensive security).
+1. Security Analysis:
+Security analysts are often referred to as the digital defenders of an organisation and sit on the blue team.
+These people monitor, investigate & respond to activity taking place on an organisation's devices & network and play a significant role in an organisation's defence.
+Using their skills, security analysts investigate & piece together potential security incidents known as alerts to decide if further action is needed & respond appropriately.
+An example of a potential security incident is an employee who works in the London office who suddenly logs in from another country.
+An investigation is required to determine if this is legitimate.
+***A Typical Day as a Security Analyst Involves:
+Monitoring activity taking place on the devices & network of the organisation.
+Investigating unusual or suspicious activity, such as strange logins.
+Piecing together information to understand what has happened, when & how.
+Working with other teams to improve the organisation's defences.
+Security Analyst is a broad entry point into defensive security, with many paths to specialise later.
+You can move into areas like threat hunting, incident response or malware analysis.
+Incident responders handle active attacks, while malware analysts examine the tools & code used by attackers.
+2. Security Engineering:
+At a high level, Security Engineers build & maintain the systems & processes that protect an organisation's network & devices
+and are known as the architects of cyber security.
+For example, a Security Engineer will be responsible for maintaining an Intrusion Detection System (IDS),
+which can be considered a security camera within an organisation's digital environment.
+Systems like these use a mixture of rules & intelligence to detect & prevent attacks from occurring.
+***A Typical Day as a Security Engineer Involves:
+Designing & maintaining security systems.
+Keeping up to date with the latest & greatest hacker techniques being used.
+Documenting processes & procedures.
+Assessing risk & making sure systems & applications are protected against vulnerabilities.
+Security engineering is already a specialised defensive role, but you can go even deeper into areas like application security or cloud security.
+The skills you build here also transfer well into other fields, including offensive security.
+3. Penetration Testing:
+penetration testing is often referred to as “pentesting” or “ethical hacking.”
+A penetration tester’s job is to check how secure a company’s systems & software are by safely trying to break into them.
+They search for weaknesses & vulnerabilities and then test if those can be exploited, just like a real hacker would, but in a safe and controlled way.
+ Everything is done under an agreement between the company & the pentester.
+This process is known as an engagement.
+The results of these tests help the company understand risks & address problems before real cybercriminals can exploit them.
+***A Typical Day as a Penetration Tester Involves:
+Testing the security of computer systems, networks & websites.
+Performing security assessments, audits & analysing security policies.
+Analysing the results & creating reports, advising an organisation on how to prevent the attack from occurring.
+Penetration testing is a strong starting point for an offensive security career.
+You can specialise in areas like network or web application testing & later progress into red teaming,
+where you simulate full-scale, long-term attacks across an entire organisation, sometimes even involving physical intrusion.
+Red teaming is a senior, advanced progression from pentesting.
