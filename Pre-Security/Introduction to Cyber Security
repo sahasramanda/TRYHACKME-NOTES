@@ -92,3 +92,16 @@ Working with other teams to improve the organisation's defences.
 Security Analyst is a broad entry point into defensive security, with many paths to specialise later.
 You can move into areas like threat hunting, incident response or malware analysis.
 Incident responders handle active attacks, while malware analysts examine the tools & code used by attackers.
+2. Security Engineering:
+At a high level, Security Engineers build & maintain the systems & processes that protect an organisation's network & devices
+and are known as the architects of cyber security.
+For example, a Security Engineer will be responsible for maintaining an Intrusion Detection System (IDS),
+which can be considered a security camera within an organisation's digital environment.
+Systems like these use a mixture of rules & intelligence to detect & prevent attacks from occurring.
+***A Typical Day as a Security Engineer Involves:
+Designing & maintaining security systems.
+Keeping up to date with the latest & greatest hacker techniques being used.
+Documenting processes & procedures.
+Assessing risk & making sure systems & applications are protected against vulnerabilities.
+Security engineering is already a specialised defensive role, but you can go even deeper into areas like application security or cloud security.
+The skills you build here also transfer well into other fields, including offensive security.
