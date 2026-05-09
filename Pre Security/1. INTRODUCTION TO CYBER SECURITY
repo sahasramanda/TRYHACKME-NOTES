@@ -42,7 +42,7 @@ examples of these defensive measures include:
 in today's world, the human factor of cyber security cannot be ignored.
 with attacks more often than not targeting employees rather than systems,
 training employees to be proactive in recognising attempts for things like phishing is essential.
----> phishing: when emails are sent to a target(s) purporting to be from a trusted entity to lure individuals into providing sensitive information.
+PHISHING: when emails are sent to a target(s) purporting to be from a trusted entity to lure individuals into providing sensitive information.
 2. intrusion detection systems (IDS):
 these devices act as surveillance cameras across the organisation's IT.
 they monitor & alert when suspicious behaviour or activity is detected across the network or systems.
@@ -88,21 +88,21 @@ security analyst is a broad entry point into defensive security with many paths 
 you can move into areas like threat hunting, incident response or malware analysis.
 incident responders handle active attacks, while malware analysts examine the tools & code used by attackers.
 2. security engineering:
-at a high level, security engineers build & maintain the systems and processes that protect an organisation's network & devices
+at a high level, security engineers build and maintain the systems & processes that protect an organisation's network & devices
 and are known as the architects of cyber security.
 for example, a security engineer will be responsible for maintaining an intrusion detection system,
 which can be considered a security camera within an organisation's digital environment.
 systems like these use a mixture of rules & intelligence to detect and prevent attacks from occurring.
 ---> a typical day as a security engineer involves:
 designing & maintaining security systems, keeping up to date with the latest & greatest hacker techniques being used, documenting processes & procedures,
-assessing risk & making sure systems and applications are protected against vulnerabilities.
+assessing risk and making sure systems & applications are protected against vulnerabilities.
 security engineering is already a specialised defensive role but you can go even deeper into areas like application security or cloud security.
 the skills you build here also transfer well into other fields including offensive security.
 3. penetration testing:
 penetration testing is often referred to as “pentesting” or “ethical hacking”.
 a penetration tester’s job is to check how secure a company’s systems & software are by safely trying to break into them.
 they search for weaknesses and vulnerabilities & then test if those can be exploited, just like a real hacker would but in a safe & controlled way.
-everything is done under an agreement between the company & the pentester. this process is known as an engagement.
+everything is done under an agreement between the company & the pentester. this process is known as an ENGAGEMENT.
 the results of these tests help the company understand risks & address problems before real cybercriminals can exploit them.
 ---> a typical day as a penetration tester involves:
 testing the security of computer systems, networks & websites,
