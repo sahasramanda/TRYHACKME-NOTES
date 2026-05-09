@@ -48,19 +48,19 @@ these devices act as surveillance cameras across the organisation's IT.
 they monitor & alert when suspicious behaviour or activity is detected across the network or systems.
 3. firewalls:
 these devices act as security guards on an organisation's network. they monitor & determine what traffic is allowed to enter the network or should be rejected.
-4. Security Policies
-Security policies help organisations ensure that their systems are used correctly.
-They can reduce risk by blocking access to dangerous websites or requiring strong passwords, making it harder for attackers to guess login details.
-***This means that even if an employee clicks on a dangerous attachment in an email,
+4. security policies
+these help organisations ensure that their systems are used correctly.
+they can reduce risk by blocking access to dangerous websites or requiring strong passwords, making it harder for attackers to guess login details.
+this means that even if an employee clicks on a dangerous attachment in an email,
 other protections are in place to prevent the malicious attachment from harming the organisation.
-Defensive security teams rely on a wide range of tools & technologies.
-These tools allow professionals to analyse information & investigate threats more effectively.
-Key technologies commonly used by defensive security teams worldwide:
---->Security Operations Centre (SOC):
+---> defensive security teams rely on a wide range of tools & technologies.
+these tools allow professionals to analyse information & investigate threats more effectively.
+key technologies commonly used by defensive security teams worldwide:
+SECURITY OPERATIONS CENTRE (SOC):
 the defensive security centre for an organisation's technology.
-This busy centre is the frontline of protecting an organisation, often operating around the clock, 365 days a year &
-employs a variety of security professionals who monitor & protect the organisation's networks, systems & data.
-***A typical day in the SOC could look like:
+this busy centre is the frontline of protecting an organisation, often operating around the clock, 365 days a year &
+employs a variety of security professionals who monitor and protect the organisation's networks, systems & data.
+---> a typical day in the SOC could look like:
 Reviewing alerts triggered by security tooling
 Investigating anomalies
 Responding to incidents
