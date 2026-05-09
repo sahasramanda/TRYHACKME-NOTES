@@ -1,12 +1,12 @@
----> Offensive Security Intro
-Offensive Security is about thinking like an attacker to find weaknesses before real hackers do.
-Offensive Security is the term which describes simulating a hacker's actions to find system vulnerabilities.
----> Defensive Security Intro
-Defensive Security is also known as blue teaming.
-Defensive Security teams play a key role in protecting networks & organisations across the globe.
-***A ransomware attack is a type of malicious software (malware) that encrypts a victim’s data, systems or files,
+OFFENSIVE SECURITY INTRO:
+offensive security is about thinking like an attacker to find weaknesses before real hackers do.
+offensive security is the term which describes simulating a hacker's actions to find system vulnerabilities.
+DEFENSIVE SECURITY INTRO:
+defensive security is also known as blue teaming.
+defensive security teams play a key role in protecting networks & organisations across the globe.
+---> a ransomware attack is a type of malicious software (malware) that encrypts a victim’s data, systems or files,
 rendering them inaccessible until a ransom, typically in cryptocurrency, is paid.
-These attacks frequently target education, government, and healthcare sectors to steal sensitive information & cause operational downtime.
+these attacks frequently target education, government & healthcare sectors to steal sensitive information and cause operational downtime.
 ---> Responsibilities of Defensive Security
 1. Monitoring & Detecting:
 Continually observing organisation's network & system activity to identify suspicious behaviour & events.
@@ -119,4 +119,4 @@ Analysing the results & creating reports, advising an organisation on how to pre
 Penetration testing is a strong starting point for an offensive security career.
 You can specialise in areas like network or web application testing & later progress into red teaming,
 where you simulate full-scale, long-term attacks across an entire organisation, sometimes even involving physical intrusion.
-engRed teaming is a senior, advanced progression from pentesting.
+Red teaming is a senior, advanced progression from pentesting.
