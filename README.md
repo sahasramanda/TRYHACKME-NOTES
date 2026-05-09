@@ -28,3 +28,37 @@
 ---
 
 ## 🌸 About Me
+---
+
+## 💮 Goal
+
+Become a **SOC (Security Operations Center) Analyst** — detecting threats, analyzing incidents, and defending systems in real time 🍓
+
+---
+
+## 🌸 Learning Roadmap
+
+| 💮 Stage | Path | Status |
+|----------|------|--------|
+| 🟢 | Pre-Security | `In Progress` |
+| 🍓 | Cyber Security 101 | `Upcoming` |
+| 🌸 | SOC Level 1 | `Upcoming` |
+| 💌 | SOC Level 2 | `Upcoming` |
+
+---
+
+## 💌 What You'll Find Here
+
+- 🍓 **Room Notes** — Key concepts and takeaways from each room
+- 🌸 **Writeups** — Step-by-step solutions and methodology
+- 💮 **Concepts** — Simplified explanations of complex topics
+
+---
+
+<div align="center">
+
+*"The quieter you become, the more you are able to hear."* 🍓 — Kali Linux motto
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1493,50:ff69b4,100:ffb6c1&height=100&section=footer"/>
+
+</div>
