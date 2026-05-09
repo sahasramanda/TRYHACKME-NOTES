@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[TryHackMe 🍓](https://tryhackme.com/p/sahasramanda)
+[TryHackMe ](https://tryhackme.com/p/sahasramanda)
 
 <br/><br/>
 
