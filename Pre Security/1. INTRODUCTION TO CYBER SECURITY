@@ -77,17 +77,16 @@ cybersecurity has many career paths from breaking into systems (offensive securi
 security analysts are often referred to as the digital defenders of an organisation & sit on the blue team.
 these people monitor, investigate & respond to activity taking place on an organisation's devices and network.
 they play a significant role in an organisation's defence.
-using their skills security analysts investigate & piece together potential security incidents known as alerts to decide if further action is needed & respond appropriately.
-An example of a potential security incident is an employee who works in the London office who suddenly logs in from another country.
-An investigation is required to determine if this is legitimate.
-***A Typical Day as a Security Analyst Involves:
-Monitoring activity taking place on the devices & network of the organisation.
-Investigating unusual or suspicious activity, such as strange logins.
-Piecing together information to understand what has happened, when & how.
-Working with other teams to improve the organisation's defences.
-Security Analyst is a broad entry point into defensive security, with many paths to specialise later.
-You can move into areas like threat hunting, incident response or malware analysis.
-Incident responders handle active attacks, while malware analysts examine the tools & code used by attackers.
+using their skills security analysts investigate & piece together potential security incidents known as alerts
+to decide if further action is needed & respond appropriately.
+an example of a potential security incident is an employee who works in the london office who suddenly logs in from another country.
+an investigation is required to determine if this is legitimate.
+---> a typical day as a security analyst involves:
+monitoring activity taking place on the devices & network of the organisation, investigating unusual or suspicious activity such as strange logins,
+piecing together information to understand what has happened when & how, working with other teams to improve the organisation's defences.
+security analyst is a broad entry point into defensive security with many paths to specialise later.
+you can move into areas like threat hunting, incident response or malware analysis.
+incident responders handle active attacks, while malware analysts examine the tools & code used by attackers.
 2. Security Engineering:
 At a high level, Security Engineers build & maintain the systems & processes that protect an organisation's network & devices
 and are known as the architects of cyber security.
