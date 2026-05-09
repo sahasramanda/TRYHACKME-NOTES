@@ -47,7 +47,6 @@ Become a **SOC (Security Operations Center) Analyst**
 
 -  **Room Notes** — Key concepts and takeaways from each room
 -  **Writeups** — Step-by-step solutions and methodology
--  **Concepts** — Simplified explanations of complex topics
 
 ---
 
