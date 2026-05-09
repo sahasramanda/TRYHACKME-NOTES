@@ -1,7 +1,7 @@
 ## 🌸 About Me
 ---
 
-## 💮 Goal
+## 🌸 Goal
 
 Become a **SOC (Security Operations Center) Analyst** 
 
