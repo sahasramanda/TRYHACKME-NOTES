@@ -40,3 +40,7 @@ an IP address is a set of numbers that are divided into four octets.
 the value of each octet will summarise to be the IP address of the device on the network.
 this number is calculated through a technique known as IP addressing & subnetting.
 IP addresses can change from device to device but cannot be active simultaneously more than once within the same network.
+IP addresses follow a set of standards known as protocols.
+these protocols are the backbone of networking & force many devices to communicate in the same language.
+however, devices can be on both a private & public network.
+depending on where they are will determine what type of IP address they have: a public or private IP address.
