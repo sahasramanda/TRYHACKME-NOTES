@@ -44,3 +44,4 @@ IP addresses follow a set of standards known as protocols.
 these protocols are the backbone of networking & force many devices to communicate in the same language.
 however, devices can be on both a private & public network.
 depending on where they are will determine what type of IP address they have: a public or private IP address.
+a public address is used to identify the device on the internet, whereas a private address is used to identify a device amongst other devices.
