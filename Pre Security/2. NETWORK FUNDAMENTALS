@@ -55,3 +55,11 @@ so you can see why there is such a shortage.
 IPv6 is a new iteration of the internet protocol addressing scheme to help tackle this issue.
 although it is seemingly more daunting, it boasts a few benefits:
 supports up to 2^128 of IP addresses (340 trillion-plus), resolving the issues faced with IPv4 & more efficient due to new methodologies.
+MAC ADDRESSES:
+devices on a network will all have a physical network interface which is a microchip board found on the device's motherboard.
+this network interface is assigned a unique address at the factory it was built at, called a MAC (media access control) address.
+the MAC address is a 12 character hexadecimal number (a base 16 numbering system used in computing to represent numbers) split into two's and separated by a colon.
+these colons are considered separators.
+for example,
+a4:c3:f0:85:ac:2d.
+the first 6 characters represent the company that made the network interface & the last 6 is a unique number.
