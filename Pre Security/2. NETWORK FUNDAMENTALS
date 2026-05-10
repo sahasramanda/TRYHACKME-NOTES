@@ -36,3 +36,7 @@ a MEDIA ACCESS CONTROL (MAC) address, think of this as being similar to a serial
 IP ADDRESSES:
 an IP (INTERNET PROTOCOL) address can be used as a way of identifying a host on a network for a period of time,
 where that IP address can then be associated with another device without the IP address changing.
+an IP address is a set of numbers that are divided into four octets.
+the value of each octet will summarise to be the IP address of the device on the network.
+this number is calculated through a technique known as IP addressing & subnetting.
+IP addresses can change from device to device but cannot be active simultaneously more than once within the same network.
