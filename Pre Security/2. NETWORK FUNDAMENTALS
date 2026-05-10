@@ -28,3 +28,11 @@ a private network
 a public network
 devices will use a set of labels to identify themselves on a network.
 IDENTIFYING DEVICES ON A NETWORK:
+to communicate & maintain order, devices must be both identifying and identifiable on a network.
+devices have two means of identification, with one being permeable.
+these are:
+an IP address
+a MEDIA ACCESS CONTROL (MAC) address, think of this as being similar to a serial number.
+IP ADDRESSES:
+an IP (INTERNET PROTOCOL) address can be used as a way of identifying a host on a network for a period of time,
+where that IP address can then be associated with another device without the IP address changing.
