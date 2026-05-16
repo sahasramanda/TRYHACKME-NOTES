@@ -12,14 +12,14 @@ these devices include everything from your laptop & phone to security cameras, t
 networks are integrated into our everyday life.
 be it gathering data for the weather, delivering electricity to homes or even determining who has the right of way at a road.
 because networks are so embedded in the modern-day, networking is an essential concept to grasp in cybersecurity.
-networks come in all shapes and sizes.
+networks come in all shapes & sizes.
+
 WHAT IS THE INTERNET?
 the internet is one giant network that consists of many, many small networks within itself.
 the first iteration of the internet was within the ARPANET project in the late 1960s.
 this project was funded by the united states defence department and was the first documented network in action.
 however, it wasn't until 1989 when the internet as we know it was invented by TIM BERNERS-LEE by the creation of the world wide web (WWW).
 it wasn't until this point that the internet started to be used as a repository for storing & sharing information, just like it is today.
-
 N1 <-- the internet --> N2
 the internet is made up of many small networks all joined together.
 these small networks are called private networks, where networks connecting these small networks are called public networks or the internet.
