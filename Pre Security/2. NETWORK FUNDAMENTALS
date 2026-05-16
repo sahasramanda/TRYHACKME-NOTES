@@ -84,3 +84,5 @@ a hotel Wi-Fi network where you have to pay for the service.
 you'll note that the router is not allowing bob's packets (blue) to the tryhackme website & is placing them in the bin,
 but alice's packets (green) are going through fine because she has paid for wi-fi.
 try changing bob's MAC address to the same as alice's...
+
+PING (ICMP):
