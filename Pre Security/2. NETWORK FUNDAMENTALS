@@ -48,7 +48,7 @@ these protocols are the backbone of networking & force many devices to communica
 ---> devices can be on both a private & public network.
 depending on where they are will determine what type of IP address they have: a public or private IP address.
 a public address is used to identify the device on the internet, whereas a private address is used to identify a device amongst other devices.
-devices will use their private IP addresses to communicate with each other.
+---> devices will use their private IP addresses to communicate with each other.
 however, any data sent to the internet from any of the device on the same netwrok will be identified by the same public IP address.
 public IP addresses are given by your INTERNET SERVICE PROVIDER (ISP) at a monthly fee (your bill).
 as more & more devices become connected, it is becoming increasingly harder to get a public address that isn't already in use.
