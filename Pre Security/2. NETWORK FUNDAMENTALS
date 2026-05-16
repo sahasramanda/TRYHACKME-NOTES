@@ -51,7 +51,8 @@ a public address is used to identify the device on the internet, whereas a priva
 ---> devices use their private IP addresses to communicate with each other.
 however, any data sent to the internet from any of the devices on the same network will be identified by the same public IP address.
 public IP addresses are given by your INTERNET SERVICE PROVIDER (ISP) at a monthly fee (bill).
----> as more & more devices become connected, it is becoming increasingly harder to get a public address that isn't already in use.
+as more & more devices become connected, it is becoming increasingly harder to get a public address that isn't already in use.
+
 IP ADDRESS VERSIONS:
 so far, we have only discussed one version of the internet protocol addressing scheme known as IPv4, which uses a numbering system of 2^32 IP addresses (4.29 billion),
 so you can see why there is such a shortage.
