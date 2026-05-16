@@ -39,13 +39,13 @@ a MEDIA ACCESS CONTROL (MAC) address, think of this as being similar to a serial
 IP ADDRESSES:
 an IP (INTERNET PROTOCOL) address can be used as a way of identifying a host on a network for a period of time,
 where that IP address can then be associated with another device without the IP address changing.
-an IP address is a set of numbers that are divided into four octets.
+an IP address is a set of numbers that are divided into 4 octets.
 the value of each octet will summarise to be the IP address of the device on the network.
 this number is calculated through a technique known as IP addressing & subnetting.
 IP addresses can change from device to device but cannot be active simultaneously more than once within the same network.
 IP addresses follow a set of standards known as protocols.
 these protocols are the backbone of networking & force many devices to communicate in the same language.
-however, devices can be on both a private & public network.
+---> devices can be on both a private & public network.
 depending on where they are will determine what type of IP address they have: a public or private IP address.
 a public address is used to identify the device on the internet, whereas a private address is used to identify a device amongst other devices.
 devices will use their private IP addresses to communicate with each other.
