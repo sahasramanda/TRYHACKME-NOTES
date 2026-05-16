@@ -94,3 +94,5 @@ this measuring is done using ICMP's echo packet & then ICMP's echo reply from th
 pings can be performed against devices on a network such as your home network or resources like websites.
 this tool can be easily used & comes installed on operating systems (OS) such as linux & windows.
 the syntax to do a simple ping is "ping IP address" or website URL.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INTRO TO LAN
