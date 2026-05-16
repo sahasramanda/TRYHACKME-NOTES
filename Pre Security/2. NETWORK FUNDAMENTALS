@@ -64,7 +64,7 @@ IPv4: 86.157.52.21
 
 MAC ADDRESSES:
 devices on a network will all have a physical network interface which is a microchip board found on the device's motherboard.
-this network interface is assigned a unique address at the factory it was built at, called a MAC (MEDIA ACCESS CONTROL) address.
+this network interface is assigned a unique address at the factory it was built at, called a MAC address.
 the MAC address is a 12 character hexadecimal number (a base 16 numbering system used in computing to represent numbers) split into two's & separated by a colon.
 these colons are considered separators.
 for example,
