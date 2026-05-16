@@ -86,7 +86,7 @@ but alice's packets (green) are going through fine because she has paid for wi-f
 try changing bob's MAC address to the same as alice's...
 
 PING (ICMP):
-ping is one of the most fundamental network tools available to us.
+ping is one of the most fundamental network tools available.
 ping uses ICMP (INTERNET CONTROL MESSAGE PROTOCOL) packets to determine the performance of a connection between devices.
 for example, if the connection exists or is reliable.
 the time taken for ICMP packets travelling between devices is measured by ping.
