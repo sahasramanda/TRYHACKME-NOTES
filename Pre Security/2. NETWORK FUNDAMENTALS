@@ -64,23 +64,22 @@ IPv4: 86.157.52.21
 
 MAC ADDRESSES:
 devices on a network will all have a physical network interface which is a microchip board found on the device's motherboard.
-this network interface is assigned a unique address at the factory it was built at, called a MAC (media access control) address.
-the MAC address is a 12 character hexadecimal number (a base 16 numbering system used in computing to represent numbers) split into two's and separated by a colon.
+this network interface is assigned a unique address at the factory it was built at, called a MAC (MEDIA ACCESS CONTROL) address.
+the MAC address is a 12 character hexadecimal number (a base 16 numbering system used in computing to represent numbers) split into two's & separated by a colon.
 these colons are considered separators.
 for example,
 a4:c3:f0:85:ac:2d.
 the first 6 characters represent the company that made the network interface & the last 6 is a unique number.
-an interesting thing with MAC addresses is that they can be faked or spoofed in a process known as spoofing. 
+an interesting thing with MAC addresses is that they can be faked or spoofed in a process known as spoofing.
 SPOOFING occurs when a networked device pretends to identify as another using its MAC address.
 when this occurs it can often break poorly implemented security designs that assume that devices talking on a network are trustworthy.
-take the following scenario:
 a firewall is configured to allow any communication going to & from the MAC address of the administrator.
-FIREWALL: a security tool, hardware or software that is used to filter network traffic by stopping unauthorized incoming & outgoing traffic.
 if a device were to pretend or "spoof" this MAC address, the firewall would now think that it is receiving communication from the administrator when it isn't.
+FIREWALL: a security tool, hardware or software that is used to filter network traffic by stopping unauthorized incoming & outgoing traffic.
 places such as cafes, coffee shops & hotels alike often use MAC address control when using their guest or public wi-fi.
 this configuration could offer better services, i.e. a faster connection for a price if you are willing to pay the fee per device.
 for example,
 a hotel Wi-Fi network where you have to pay for the service.
-you'll note that the router is not allowing bob's packets (blue) to the tryhackme website & is placing them in the bin
+you'll note that the router is not allowing bob's packets (blue) to the tryhackme website & is placing them in the bin,
 but alice's packets (green) are going through fine because she has paid for wi-fi.
 try changing bob's MAC address to the same as alice's...
