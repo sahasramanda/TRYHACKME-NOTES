@@ -56,6 +56,7 @@ these records resolve to the "address of the servers that handle the email for t
 for example, an MX record response for tryhackme.com would look something like alt1.aspmx.l.google.com
 these records also come with a priority flag.
 this tells the client in which order to try the servers.
+a MX record would be used to advise where to send email.
 this is perfect if the main server goes down & email needs to be sent to a backup server.
 TXT record:
 TXT records are "free text fields" where any "text-based data can be stored".
