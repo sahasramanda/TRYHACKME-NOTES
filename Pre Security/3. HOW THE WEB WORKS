@@ -69,3 +69,5 @@ _acme-challenge.example.com TXT "token_value_here"
 _dmarc.example.com TXT "v=DMARC1; p=reject; rua=mailto:dmarc-reports@example.com; adkim=s; aspf=s; pct=100"
 @ TXT "MS=ms12345678"
 as the name implies, TXT records are strings of text.
+
+MAKING A REQUEST:
