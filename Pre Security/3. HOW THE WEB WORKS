@@ -37,3 +37,5 @@ you can use multiple subdomains split with periods to create longer names such a
 but the length must be kept to 253 characters or less.
 there is no limit to the number of subdomains you can create for your domain name.
 so the "maximum length of a domain name is 253".
+
+DNS RECORD TYPES:
