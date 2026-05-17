@@ -39,3 +39,11 @@ there is no limit to the number of subdomains you can create for your domain nam
 so the "maximum length of a domain name is 253".
 
 DNS RECORD TYPES:
+DNS isn't just for websites.
+multiple types of DNS record exist.
+A record:
+these records resolve to IPv4 addresses.
+for example 104.26.10.229
+AAAA record:
+these records resolve to IPv6 addresses.
+for example 2606:4700:20::681a:be5
