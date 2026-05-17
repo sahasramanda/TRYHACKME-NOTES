@@ -56,4 +56,5 @@ these records resolve to the address of the servers that handle the email for th
 for example, an MX record response for tryhackme.com would look something like alt1.aspmx.l.google.com
 these records also come with a priority flag.
 this tells the client in which order to try the servers.
-this is perfect for if the main server goes down & email needs to be sent to a backup server.
+this is perfect if the main server goes down & email needs to be sent to a backup server.
+TXT record:
