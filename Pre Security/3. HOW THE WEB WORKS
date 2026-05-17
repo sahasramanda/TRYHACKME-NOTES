@@ -10,3 +10,14 @@ when you want to visit a website it's not exactly convenient to remember this co
 so instead of remembering 104.26.10.229, you can remember "tryhackme.com" instead.
 
 DOMAIN HIERARCHY:
+TLD (TOP-LEVEL DOMAIN):
+a TLD is the most righthand part of a domain name.
+for example, the tryhackme.com TLD is ".com"
+there are two types of TLD:
+1. gTLD (GENERIC TOP LEVEL):
+historically a gTLD was meant to tell the user the domain name's purpose.
+for example, a .com would be for commercial purposes, .org for an organisation, .edu for education & .gov for government.
+2. ccTLD (COUNTRY CODE TOP LEVEL DOMAIN):
+a ccTLD was used for geographical purposes.
+for example, .ca for sites based in canada, .co.uk for sites based in the UK & so on.
+due to such demand there is an influx of new gTLDs ranging from .online , .club , .website , .biz & so many more.
