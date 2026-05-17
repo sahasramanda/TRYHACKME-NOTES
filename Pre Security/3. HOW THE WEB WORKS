@@ -47,3 +47,7 @@ for example 104.26.10.229
 AAAA record:
 these records resolve to IPv6 addresses.
 for example 2606:4700:20::681a:be5
+CNAME record:
+these records resolve to another domain name.
+for example, tryhackme's online shop has the subdomain name store.tryhackme.com which returns a CNAME record shops.shopify.com
+another DNS request would then be made to shops.shopify.com to work out the IP address.
