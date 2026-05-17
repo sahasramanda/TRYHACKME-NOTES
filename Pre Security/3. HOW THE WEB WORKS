@@ -7,4 +7,4 @@ much like every house has a unique address for sending mail directly to it,
 every computer on the internet has its own unique address to communicate with it called an IP address.
 an IP address looks like the following 104.26.10.229, 4 sets of digits ranging from 0 - 255 separated by a period.
 when you want to visit a website it's not exactly convenient to remember this complicated set of numbers & that's where DNS can help.
-so instead of remembering 104.26.10.229, you can remember tryhackme.com instead.
+so instead of remembering 104.26.10.229, you can remember "tryhackme.com" instead.
