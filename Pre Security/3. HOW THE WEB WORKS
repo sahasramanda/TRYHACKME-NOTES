@@ -14,7 +14,7 @@ TLD (TOP-LEVEL DOMAIN):
 a TLD is the most righthand part of a domain name.
 for example, the tryhackme.com TLD is ".com"
 there are two types of TLD:
-1. gTLD (GENERIC TOP LEVEL):
+1. gTLD (GENERIC TOP LEVEL DOMAIN):
 historically a gTLD was meant to tell the user the domain name's purpose.
 for example, a .com would be for commercial purposes, .org for an organisation, .edu for education & .gov for government.
 2. ccTLD (COUNTRY CODE TOP LEVEL DOMAIN):
