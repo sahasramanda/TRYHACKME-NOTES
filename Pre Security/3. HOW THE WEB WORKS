@@ -32,6 +32,6 @@ a subdomain sits on the "lefthand side of the second level domain using a period
 for example, in the name 'admin.tryhackme.com' the admin part is the subdomain.
 a subdomain name has the same creation restrictions as a second-level domain,
 being limited to 63 characters & can only use a-z 0-9 and hyphens (cannot start or end with hyphens or have consecutive hyphens).
-you can use multiple subdomains split with periods to create longer names such as jupiter.servers.tryhackme.com.
+you can use multiple subdomains split with periods to create longer names such as jupiter.servers.tryhackme.com
 but the length must be kept to 253 characters or less.
 there is no limit to the number of subdomains you can create for your domain name.
