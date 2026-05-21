@@ -71,3 +71,24 @@ _dmarc.example.com TXT "v=DMARC1; p=reject; rua=mailto:dmarc-reports@example.com
 as the name implies, TXT records are strings of text.
 
 MAKING A REQUEST:
+what happens when you make a DNS request:
+1. when you request a domain name, your computer first checks its local cache to see if you've previously looked up the address recently;
+if not, a request to your "recursive DNS server" will be made.
+2. a recursive DNS server is usually provided by your ISP but you can also choose your own.
+this server also has a local cache of recently looked up domain names. if a result is found locally,
+this is sent back to your computer & your request ends here (this is common for popular & heavily requested services such as google, facebook, twitter).
+if the request cannot be found locally, a journey begins to find the correct answer starting with the internet's root DNS servers.
+
+
+HTTP IN DETAIL:
+HTTP protocol is used to request content from a web server.
+what is HTTP?
+HYPERTEXT TRANSFER PROTOCOL
+HTTP is what's used whenever you view a website developed by TIM BERNERS-LEE & his team between 1989-1991.
+HTTP is the set of rules used for communicating with web servers for the transmitting of webpage data, whether that is HTML, images, videos, etc.
+what is HTTPS?
+HYPERTEXT TRANSFER PROTOCOL SECURE
+HTTPS is the secure version of HTTP.
+HTTPS data is encrypted so it not only stops people from seeing the data you are receiving & sending,
+but it also gives you assurances that you're talking to the correct web server & not something impersonating it.
+
