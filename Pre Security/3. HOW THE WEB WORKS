@@ -181,4 +181,8 @@ line 4: the content-type header tells the client what sort of information is goi
 line 5: content-length tells the client how long the response is. this way we can confirm no data is missing.
 line 6: HTTP response contains a blank line to confirm the end of the HTTP response.
 lines 7-14: the information that has been requested in this instance the homepage.
-**content-length response header tells the browser how much data to expect.
+
+so content-length response header tells the browser how much data to expect.
+
+HTTP METHODS:
+
