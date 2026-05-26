@@ -81,7 +81,8 @@ this is sent back to your computer & your request ends here (this is common for 
 if the request cannot be found locally, a journey begins to find the correct answer starting with the internet's root DNS servers.
 3. the root servers act as the DNS backbone of the internet,
 their job is to redirect you to the correct top level domain server depending on your request.
-for example, you request www.tryhackme.com, the root server will recognise the top level domain of .com & refer you to the correct TLD server that deals with .com addresses.
+for example, you request www.tryhackme.com, the root server will recognise the top level domain of .com &
+refer you to the correct TLD server that deals with .com addresses.
 4. the TLD server holds records for where to find the authoritative server to answer the DNS request.
 the authoritative server is often also known as the nameserver for the domain.
 for example, the name server for tryhackme.com is kip.ns.cloudflare.com & uma.ns.cloudflare.com
