@@ -141,10 +141,13 @@ but for a much richer web experience you’ll need to send other data as well.
 this other data is sent in what is called headers,
 where headers contain extra information to give to the web server you’re communicating with.
 EXAMPLE REQUEST:
+
 GET / HTTP/1.1
+
 host: tryhackme.com
 user-agent: Mozilla/5.0 Firefox/87.0
 referer: https://tryhackme.com/
+
 to breakdown each line of this request:
 line 1: this request is sending the GET method,
 request the home page with / & telling the web server we are using HTTP protocol version 1.1
