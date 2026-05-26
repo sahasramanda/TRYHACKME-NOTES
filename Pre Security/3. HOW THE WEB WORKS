@@ -185,4 +185,6 @@ lines 7-14: the information that has been requested in this instance the homepag
 so content-length response header tells the browser how much data to expect.
 
 HTTP METHODS:
-
+HTTP methods are a way for the client to show their intended action when making an HTTP request.
+there are a lot of HTTP methods.
+GET request:
