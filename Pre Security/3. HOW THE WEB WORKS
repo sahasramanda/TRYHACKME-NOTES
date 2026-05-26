@@ -77,8 +77,8 @@ what happens when you make a DNS request:
 if not a request to your "recursive DNS server" will be made.
 2. a "recursive DNS server is usually provided by your ISP" but you can also choose your own.
 this server also has a local cache of recently looked up domain names.
-if a result is found locally, this is sent back to your computer & your request ends here
-(this is common for popular & heavily requested services such as google, facebook, twitter).
+if a result is found locally, this is sent back to your computer & your request ends here.
+(this is common for popular & heavily requested services such as google, facebook, twitter)
 if the request cannot be found locally, a journey begins to find the correct answer starting with the internet's root DNS servers.
 3. the root servers act as the DNS backbone of the internet,
 their job is to redirect you to the correct top level domain server depending on your request.
