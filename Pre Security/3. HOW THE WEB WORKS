@@ -78,7 +78,7 @@ this server also has a local cache of recently looked up domain names.
 if a result is found locally, this is sent back to your computer & your request ends here.
 (this is common for popular & heavily requested services such as google, facebook, twitter)
 if the request cannot be found locally, a journey begins to find the correct answer starting with the internet's root DNS servers.
-3. the root servers*act as the DNS backbone of the internet,
+3. the root servers act as the DNS backbone of the internet,
 their job is to redirect you to the correct top level domain server depending on your request.
 for example, you request www.tryhackme.com,
 the *root server* will recognise the top level domain of .com & refer you to the correct TLD server that deals with .com addresses.
