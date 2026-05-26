@@ -112,3 +112,10 @@ what is a URL? (UNIFORM RESOURCE LOCATOR)
 if you’ve used the internet you’ve used a URL before.
 a URL is predominantly an instruction on how to access a resource on the internet.
 this is how a URL looks like with all of its features (it does not use all features in every request).
+
+scheme                host/domain       path        fragment
+ |                        |               |            |
+http://user:password@tryhackme.com:80/view-room?id=1#task3
+           |                        |             |
+         user                      port      query string
+
