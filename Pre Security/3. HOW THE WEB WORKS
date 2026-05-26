@@ -171,6 +171,7 @@ Content-Length: 98
     Welcome To TryHackMe.com
 </body>
 </html>
+
 to breakdown each line of the response:
 line 1: HTTP 1.1 is the version of the HTTP protocol the server is using & then followed by the HTTP status code in this case "200 OK"
 which tells us the request has completed successfully.
