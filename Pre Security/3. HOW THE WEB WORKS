@@ -127,7 +127,7 @@ path: the file name or location of the resource you are trying to access.
 query string: extra bits of information that can be sent to the requested path.
 for example, /blog?id=1 would tell the blog path that you wish to receive the blog article with the id of 1.
 fragment: this is a reference to a location on the actual page requested.
-this is commonly used for pages with long content & can have a certain part of the page directly linked to it, so it is viewable to the user as soon as they access the page.
+this is commonly used for pages with long content & can have a certain part of the page directly linked to it so it is viewable to the user as soon as they access the page.
 MAKING A REQUEST:
 it's possible to make a request to a web server with just one line GET / HTTP/1.1
 
