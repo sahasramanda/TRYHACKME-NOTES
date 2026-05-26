@@ -99,7 +99,7 @@ HTTP protocol is used to request content from a web server.
 what is HTTP?
 HYPERTEXT TRANSFER PROTOCOL
 HTTP is what's used whenever you view a website developed by TIM BERNERS-LEE & his team between 1989-1991.
-HTTP is the set of rules used for communicating with web servers for the transmitting of webpage data, whether that is HTML, images, videos, etc.
+HTTP is the set of rules used for communicating with web servers for the transmitting of webpage data whether that is HTML, images, videos,..
 what is HTTPS?
 HYPERTEXT TRANSFER PROTOCOL SECURE
 HTTPS is the secure version of HTTP.
