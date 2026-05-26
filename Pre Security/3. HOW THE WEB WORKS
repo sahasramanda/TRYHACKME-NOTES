@@ -139,3 +139,40 @@ the request method      the HTTP protocol version
 
 but for a much richer web experience you’ll need to send other data as well.
 this other data is sent in what is called headers, where headers contain extra information to give to the web server you’re communicating with.
+EXAMPLE REQUEST:
+GET / HTTP/1.1
+host: tryhackme.com
+user-agent: Mozilla/5.0 Firefox/87.0
+referer: https://tryhackme.com/
+to breakdown each line of this request:
+line 1: this request is sending the GET method, request the home page with / & telling the web server we are using HTTP protocol version 1.1
+line 2: we tell the web server we want the website tryhackme.com
+line 3: we tell the web server we are using the firefox version 87 browser.
+line 4: we are telling the web server that the web page that referred us to this one is https://tryhackme.com
+line 5: HTTP requests always end with a blank line to inform the web server that the request has finished.
+EXAMPLE RESPONSE:
+HTTP/1.1 200 OK
+
+Server: nginx/1.15.8
+Date: Fri, 09 Apr 2021 13:34:03 GMT
+Content-Type: text/html
+Content-Length: 98
+
+
+<html>
+<head>
+    <title>TryHackMe</title>
+</head>
+<body>
+    Welcome To TryHackMe.com
+</body>
+</html>
+to breakdown each line of the response:
+line 1: HTTP 1.1 is the version of the HTTP protocol the server is using & then followed by the HTTP status code in this case "200 OK"
+which tells us the request has completed successfully.
+line 2: this tells us the web server software & version number.
+line 3: the current date, time & timezone of the web server.
+line 4: the content-type header tells the client what sort of information is going to be sent such as HTML, images, videos, pdf, XML.
+line 5: content-length tells the client how long the response is. this way we can confirm no data is missing.
+line 6: HTTP response contains a blank line to confirm the end of the HTTP response.
+lines 7-14: the information that has been requested in this instance the homepage.
