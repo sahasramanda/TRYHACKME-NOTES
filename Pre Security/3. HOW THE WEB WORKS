@@ -22,12 +22,10 @@ for example, .com would be for commercial purposes, .org for an organisation, .e
 a ccTLD was used for geographical purposes.
 for example, .ca for sites based in canada, .co.uk for sites based in the UK & so on.
 due to such demand there is an influx of new gTLDs ranging from .online, .club, .website, .biz & so many more.
-
 SECOND-LEVEL DOMAIN:
 taking tryhackme.com as an example, the .com part is the TLD & "tryhackme is the second level domain".
 when registering a domain name the "second-level domain is limited to 63 characters + the TLD & can only use a-z 0-9 and hyphens".
 (cannot start or end with hyphens or have consecutive hyphens).
-
 SUBDOMAIN:
 a subdomain sits on the "lefthand side of the second level domain using a period to separate it.
 for example, in the name 'admin.tryhackme.com' the admin part is the subdomain.
@@ -80,12 +78,12 @@ this server also has a local cache of recently looked up domain names.
 if a result is found locally, this is sent back to your computer & your request ends here.
 (this is common for popular & heavily requested services such as google, facebook, twitter)
 if the request cannot be found locally, a journey begins to find the correct answer starting with the internet's root DNS servers.
-3. the root servers act as the DNS backbone of the internet,
+3. the *root servers* act as the DNS backbone of the internet,
 their job is to redirect you to the correct top level domain server depending on your request.
 for example, you request www.tryhackme.com,
 the root server will recognise the top level domain of .com & refer you to the correct TLD server that deals with .com addresses.
-4. the TLD server holds records for where to find the authoritative server to answer the DNS request.
-the "authoritative server is often also known as the nameserver for the domain".
+4. the *TLD server* holds records for where to find the authoritative server to answer the DNS request.
+the *authoritative server* is often also known as the nameserver for the domain".
 for example, the name server for tryhackme.com is kip.ns.cloudflare.com & uma.ns.cloudflare.com
 you'll often find "multiple nameservers for a domain name to act as a backup in case one goes down".
 5. an "authoritative DNS server is the server that is responsible for storing the DNS records" for a particular domain name &
