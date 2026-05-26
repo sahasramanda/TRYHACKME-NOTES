@@ -141,7 +141,6 @@ but for a much richer web experience you’ll need to send other data as well.
 this other data is sent in what is called headers,
 where headers contain extra information to give to the web server you’re communicating with.
 EXAMPLE REQUEST:
-
 GET / HTTP/1.1
 
 host: tryhackme.com
