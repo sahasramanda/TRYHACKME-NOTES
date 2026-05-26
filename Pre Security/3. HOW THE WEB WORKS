@@ -83,8 +83,8 @@ if the request cannot be found locally, a journey begins to find the correct ans
 their job is to redirect you to the correct top level domain server depending on your request.
 for example, you request www.tryhackme.com, the root server will recognise the top level domain of .com &
 refer you to the correct TLD server that deals with .com addresses.
-4. the TLD server holds records for where to find the authoritative server to answer the DNS request.
-the authoritative server is often also known as the nameserver for the domain.
+4. the "TLD server holds records for where to find the authoritative server to answer the DNS request".
+the "authoritative server is often also known as the nameserver for the domain".
 for example, the name server for tryhackme.com is kip.ns.cloudflare.com & uma.ns.cloudflare.com
 you'll often find multiple nameservers for a domain name to act as a backup in case one goes down.
 5. an authoritative DNS server is the server that is responsible for storing the DNS records for a particular domain name &
