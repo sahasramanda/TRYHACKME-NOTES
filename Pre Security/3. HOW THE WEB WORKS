@@ -188,3 +188,10 @@ HTTP METHODS:
 HTTP methods are a way for the client to show their intended action when making an HTTP request.
 there are a lot of HTTP methods.
 GET request:
+this is used for getting information from a web server.
+POST request:
+this is used for submitting data to the web server & potentially creating new records.
+PUT request:
+this is used for submitting data to a web server to update information.
+DELETE request:
+this is used for deleting information / records from a web server.
