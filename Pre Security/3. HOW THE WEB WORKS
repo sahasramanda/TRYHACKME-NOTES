@@ -211,7 +211,7 @@ used to inform the client that there was an error with their request.
 500-599 - server errors
 this is reserved for errors happening on the server side & usually indicate quite a major problem with the server handling the request.
 COMMON HTTP STATUS CODES:
-There are a lot of different HTTP status codes & that's not including the fact that applications can even define their own.
+there are a lot of different HTTP status codes & that's not including the fact that applications can even define their own.
 the most common HTTP responses we're likely to come across:
 200 - OK
 the request was completed successfully.
