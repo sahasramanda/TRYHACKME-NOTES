@@ -197,3 +197,16 @@ DELETE request:
 this is used for deleting information / records from a web server.
 
 HTTP STATUS CODES:
+when a HTTP server responds the first line always contains a status code informing the client of the outcome of their request & also potentially how to handle it.
+these status codes can be broken down into 5 different ranges:
+100-199 - information response
+these are sent to tell the client the first part of their request has been accepted & they should continue sending the rest of their request.
+these codes are no longer very common.
+200-299 - success
+this range of status codes is used to tell the client their request was successful.
+300-399 - redirection
+these are used to redirect the client's request to another resource. this can be either to a different webpage or a different website altogether.
+400-499 - client errors
+used to inform the client that there was an error with their request.
+500-599 - server errors
+this is reserved for errors happening on the server-side & usually indicate quite a major problem with the server handling the request.
