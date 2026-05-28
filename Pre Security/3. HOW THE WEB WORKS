@@ -249,6 +249,7 @@ host: some web servers host multiple websites so by providing the host headers y
 otherwise you'll just receive the default website for the server.
 user-agent: this is your browser software & version number telling the web server your browser software helps it format the website properly for your browser and
 also some elements of HTML, javascript & CSS are only available in certain browsers.
+this header tells the web server what browser is being used.
 content-length: when sending data to a web server such as in a form the content length tells the web server how much data to expect in the web request.
 this way the server can ensure it isn't missing any data.
 accept-encoding: tells the web server what types of compression methods the browser supports so the data can be made smaller for transmitting over the internet.
