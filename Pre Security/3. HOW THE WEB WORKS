@@ -295,3 +295,5 @@ there are two major components that make up a website:
 2. back end (server side) - a server that processes your request & returns a response.
 there are many other processes involved in your browser making a request to a web server
 but for now, you make a request to a server & it responds with data your browser uses to render information to you.
+
+HTML:
