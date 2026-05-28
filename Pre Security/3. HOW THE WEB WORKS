@@ -258,6 +258,6 @@ COMMON RESPONSE HEADERS:
 these are the headers that are returned to the client from the server after a request.
 set-cookie: information to store which gets sent back to the web server on each request.
 cache-control: how long to store the content of the response in the browser's cache before it requests it again.
-content-type: this tells the client what type of data is being returned i.e., HTML, CSS, javascript, images, PDF, video,..
+content-type: this tells the client "what type of data is being returned" i.e., HTML, CSS, javascript, images, PDF, video,..
 using the content-type header the browser then knows how to process the data.
 content-encoding: what method has been used to compress the data to make it smaller when sending it over the internet.
