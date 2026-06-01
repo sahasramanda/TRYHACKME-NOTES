@@ -386,3 +386,5 @@ you could use these credentials to log in elsewhere on the application (or worse
 
 whenever you're assessing a web application for security issues,
 one of the first things you should do is review the page source code to see if you can find any exposed login credentials or hidden links.
+
+HTML INJECTION:
