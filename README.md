@@ -20,7 +20,7 @@ Become a **SOC (Security Operations Center) Analyst**.
 
 ---
 
-## 💌 What You'll Find Here
+## 💌 WHAT YOU'LL FIND HERE
 
 Room Notes: Key concepts and takeaways from each room.
 
