@@ -297,3 +297,7 @@ there are many other processes involved in your browser making a request to a we
 but for now, you make a request to a server & it responds with data your browser uses to render information to you.
 
 HTML:
+websites are primarily created using:
+HTML to build websites & define their structure.
+CSS to make websites look pretty by adding styling options.
+javascript implement complex features on pages using interactivity.
