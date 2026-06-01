@@ -93,7 +93,7 @@ DNS records all come with a TTL (TIME TO LIVE) value.
 this value is a number represented in seconds that the response should be saved for locally until you have to look it up again.
 caching saves on having to make a DNS request every time you communicate with a server.
 so TTL field specifies how long a DNS record should be cached for.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 HTTP IN DETAIL:
 HTTP protocol is used to request content from a web server.
 what is HTTP? (HYPERTEXT TRANSFER PROTOCOL)
