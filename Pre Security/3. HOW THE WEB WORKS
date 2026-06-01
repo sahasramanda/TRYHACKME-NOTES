@@ -314,3 +314,13 @@ the code snippet below shows a simple HTML document, the structure of which is t
         <p>Example paragraph..</p>
     </body>
 </html>
+the HTML structure (as above) has the following components:
+the <!DOCTYPE html> defines that the page is a HTML5 document.
+this helps with standardisation across different browsers & tells the browser to use HTML5 to interpret the page.
+the <html> element is the root element of the HTML page - all other elements come after this element.
+the <head> element contains information about the page (such as the page title).
+the <body> element defines the HTML document's body, only content inside of the body is shown in the browser.
+the <h1> element defines a large heading.
+the <p> element defines a paragraph.
+there are many other elements (tags) used for different purposes.
+example: there are tags for buttons (<button>), images (<img>), lists & much more.
