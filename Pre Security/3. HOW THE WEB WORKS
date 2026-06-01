@@ -324,3 +324,7 @@ the <h1> element defines a large heading.
 the <p> element defines a paragraph.
 there are many other elements (tags) used for different purposes.
 example: there are tags for buttons (<button>), images (<img>), lists & much more.
+tags can contain attributes such as the class attribute which can be used to style an element (e.g. make the tag a different color) <p class="bold-text"> or
+the src attribute which is used on images to specify the location of an image: <img src="img/cat.jpg">.
+an element can have multiple attributes each with its own unique purpose.
+e.g., <p attribute1="value1" attribute2="value2">.
