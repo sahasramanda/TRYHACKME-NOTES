@@ -337,3 +337,5 @@ unlike the class attribute, where multiple elements can use the same class, an e
 element id's are used for styling & to identify it by javascript.
 
 we can view the HTML of any website by right clicking & selecting "view page source" (chrome) / "show page source" (safari).
+
+JAVASCRIPT:
