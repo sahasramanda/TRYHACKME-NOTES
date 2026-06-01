@@ -344,3 +344,7 @@ HTML is used to create the website structure & content.
 javascript is used to control the functionality of web pages - without javascript a page would not have interactive elements & would always be static.
 JS can dynamically update the page in real time giving functionality to change the style of a button when a particular event on the page occurs
 (such as when a user clicks a button) or to display moving animations.
+
+javascript is added within the page source code and
+can be either loaded within <script> tags or can be included remotely with the src attribute: <script src="/location/of/javascript_file.js"></script>
+
