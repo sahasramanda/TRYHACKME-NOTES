@@ -348,3 +348,6 @@ JS can dynamically update the page in real time giving functionality to change t
 javascript is added within the page source code and
 can be either loaded within <script> tags or can be included remotely with the src attribute: <script src="/location/of/javascript_file.js"></script>
 
+the following javascript code finds a HTML element on the page with the id of "demo" and
+changes the element's contents to "Hack the Planet ": document.getElementById("demo").innerHTML = "Hack the Planet";
+
