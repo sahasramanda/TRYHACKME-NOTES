@@ -331,7 +331,6 @@ the src attribute which is used on images to specify the location of an image: <
 an element can have multiple attributes each with its own unique purpose.
 e.g., <p attribute1="value1" attribute2="value2">.
 
-elements can also have an id attribute (<p id="example">) which is unique to the element.
-unlike the class attribute where multiple elements can use the same class.
-an element must have different id's to identify them uniquely.
+elements can also have an id attribute (<p id="example">), which is unique to the element.
+unlike the class attribute, where multiple elements can use the same class, an element must have different id's to identify them uniquely.
 element id's are used for styling & to identify it by javascript.
