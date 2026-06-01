@@ -334,3 +334,5 @@ e.g., <p attribute1="value1" attribute2="value2">.
 elements can also have an id attribute (<p id="example">), which is unique to the element.
 unlike the class attribute, where multiple elements can use the same class, an element must have different id's to identify them uniquely.
 element id's are used for styling & to identify it by javascript.
+
+we can view the HTML of any website by right clicking & selecting "view page source" (chrome) / "show page source" (safari).
