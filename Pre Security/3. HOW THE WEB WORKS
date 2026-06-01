@@ -364,8 +364,6 @@ usually found in a site's frontend source code.
 websites are built using many HTML elements (tags), all of which we can see simply by "viewing the page source".
 a website developer may have forgotten to remove login credentials, hidden links to private parts of the website or other sensitive data shown in HTML or javascript.
 
-sensitive information can be potentially leveraged to further an attacker's access within different parts of a web application.
-ex:
 <!DOCTYPE html>
 <html>
   <head>
@@ -381,6 +379,8 @@ ex:
   </body>
 </html>
 
+sensitive information can be potentially leveraged to further an attacker's access within different parts of a web application.
+ex:
 there could be HTML comments with temporary login credentials & if you viewed the page's source code and found this,
 you could use these credentials to log in elsewhere on the application (or worse, used to access other backend components of the site).
 
