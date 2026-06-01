@@ -301,3 +301,16 @@ websites are primarily created using:
 HTML to build websites & define their structure.
 CSS to make websites look pretty by adding styling options.
 javascript implement complex features on pages using interactivity.
+HYPERTEXT MARKUP LANGUAGE (HTML) is the language websites are written in.
+elements (also known as tags) are the building blocks of HTML pages & tells the browser how to display content.
+the code snippet below shows a simple HTML document, the structure of which is the same for every website:
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
+        <h1>Example Heading</h1>
+        <p>Example paragraph..</p>
+    </body>
+</html>
