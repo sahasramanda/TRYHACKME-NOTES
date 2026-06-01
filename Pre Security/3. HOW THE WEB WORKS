@@ -341,7 +341,8 @@ we can view the HTML of any website by right clicking & selecting "view page sou
 JAVASCRIPT:
 javascript (JS) is one of the most popular coding languages in the world & allows pages to become interactive.
 HTML is used to create the website structure & content.
-javascript is used to control the functionality of web pages - without javascript a page would not have interactive elements & would always be static.
+javascript is used to control the functionality of web pages.
+without javascript a page would not have interactive elements & would always be static.
 JS can dynamically update the page in real time giving functionality to change the style of a button when a particular event on the page occurs
 (such as when a user clicks a button) or to display moving animations.
 
