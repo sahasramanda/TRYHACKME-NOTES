@@ -373,8 +373,8 @@ ex:
   </head>
   <body>
     <form>
-      <input type="text" name="username">
-      <input type="password" name="password">
+      <input type='text' name='username'>
+      <input type='password' name='password'>
       <button>Login</button>
       <!-- TODO: remove test credentials admin:password123 -->
     </form>
